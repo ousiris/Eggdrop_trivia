@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "name": "English",
+    "author": "You"
+  },
+  "texts": {
+    "started_by": "★ Trivia started by",
+    "first_question": "First question coming...",
+    "already_running": "Game already running!",
+    "stopped_by": "Trivia stopped by",
+    "skipped_by": "Question skipped by",
+    "next_in_5": "next in 5 seconds...",
+    "score_empty": "Score table is empty.",
+    "top10": "Top 10",
+    "pts": "pts",
+    "question_hint": "=== Question • Hint",
+    "answer_label": "Answer:",
+    "nobody_got_it": "Nobody got it!",
+    "answer_was": "Answer was →",
+    "correct": "★★★ Correct,",
+    "you_have": "→ You now have",
+    "point": "point",
+    "rank": "rank"
+    },
+    "hint_char": "◆",
+    "points_per_hint": [5,4,3,2,1,0]		
+}

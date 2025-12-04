@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "name": "Nederlands",
+    "author": "You & Grok"
+  },
+  "texts": {
+    "started_by": "★ Trivia gestart door",
+    "first_question": "Eerste vraag komt eraan...",
+    "already_running": "Spel is al bezig!",
+    "stopped_by": "Trivia gestopt door",
+    "skipped_by": "Vraag overgeslagen door",
+    "next_in_5": "volgende vraag over 5 seconden...",
+    "score_empty": "Scoretabel is nog leeg.",
+    "top10": "Top 10",
+    "pts": "ptn",
+    "question_hint": "=== Vraag • Hint",
+    "answer_label": "Antwoord:",
+    "nobody_got_it": "Niemand wist het!",
+    "answer_was": "Het juiste antwoord was →",
+    "correct": "★★★ Goed zo,",
+    "you_have": "→ Je hebt nu",
+    "point": "punt",
+    "rank": "plek"
+  },
+  "hint_char": ".",
+  "points_per_hint": [5,4,3,2,1,0]
+}
+
