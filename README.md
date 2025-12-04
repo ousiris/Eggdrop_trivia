@@ -1,4 +1,4 @@
 # Eggdrop_trivia
-Eggbot eggdrop scripts for trivia
+Trivia scripts for Eggbot eggdrop 
 
 Originally published by Souperman (on now disfunct http://www.eggdrop.za.net)
